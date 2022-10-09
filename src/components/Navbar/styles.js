@@ -17,7 +17,7 @@ export default makeStyles((theme) => ({
         flexGrow: 1,
         alignItems: 'center',
         display: 'flex',
-        textDecoration: 'name',
+        textDecoration: 'none',
     },
     image: {
         marginRight: '10px',
